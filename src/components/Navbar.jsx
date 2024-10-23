@@ -49,7 +49,11 @@ const Navbar = () => {
                 window.scrollTo(0, 0);
               }}
             >
-              <img src="/src/assets/web.png" width={25} height={25}/>
+              <img
+                className="h-8 w-8"
+                src={logo}
+                alt="Workflow"
+              />
               <p className='text-white text-[18px] font-bold cursor-pointer flex '>
                 Carter &nbsp;
                 <span className='lg:block hidden'> | Full Stack Web Developer</span>
