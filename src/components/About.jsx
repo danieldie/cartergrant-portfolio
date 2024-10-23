@@ -52,10 +52,7 @@ const About = () => {
         and mobile development. I have over
         6+ years of experience on Full Stack
         Development. Born and raised in
-        Bolivia, I moved to Canada 2 years
-        ago to keep going with my studies on
-        the field of Computer Science, I'm a
-        very curious and driven person,
+        Hong Kong, I'm a very curious and driven person,
         always looking to learn something
         new and expand my knowledge
         collaborating with people at the same
