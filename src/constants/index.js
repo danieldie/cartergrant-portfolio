@@ -139,16 +139,12 @@ const experiences = [
     company_name: "Scopic - Remote in Amsterdam, North Holland",
     icon: scopic,
     iconBg: "#ffff",
-    date: "January 2022 - Present",
+    date: "January 2023 - Present",
     points: [
-      // "Developed and maintained RESTful APIs using Node.js and Express, ensuring secure and efficient data handling.",
-      // "Implemented server-side rendering and dynamic routing using Next.js for improved SEO and performance",
-      // "Integrated third-party services and APIs.",
-      // "Designed and optimized database schemas with MySQL and MongoDB, focusing on scalability and data integrity."
-      "Successfully converted whole project from python 2 to 3.8.0",
-      "Scripted unique test plans, test scripts and processes to remove previously known redundancy by 40% and ensured predictable outcomes",
-      "Developed a desktop application to automate database testing process, improved efficiency by 65%",
-      "Automated process to create usage graphs, saving $500,000 / year & increasing accuracy"
+      "Developed and maintained RESTful APIs using Node.js and Express, ensuring secure and efficient data handling.",
+      "Implemented server-side rendering and dynamic routing using Next.js for improved SEO and performance",
+      "Integrated third-party services and APIs.",
+      "Designed and optimized database schemas with MySQL and MongoDB, focusing on scalability and data integrity."
     ],
   },
   {
@@ -158,13 +154,9 @@ const experiences = [
     iconBg: "#ffff",
     date: "July 2021 - November 2022",
     points: [
-      // "Implemented complex user interfaces using advanced ReactJs, NextJs, Python, TailwindCss, Typescript, etc.",
-      // "Utilized React for frontend web development and cross-platform web app development.",
-      // "Collaborated on optimizing app performance and enhancing user experience.",
-      "Moved the automation solution into a commercial software ( $60k/year)",
-      "Designed and developed reusable software components which used in 3 different project with reducing development effort by 50%",
-      "Re-engineered critical modules within a sprint to rely on a centralized library to optimize performance by 68%",
-      "Rated with the best annual performance rating for all the years during my stint; given to top ~ 5% employees"
+      "Implemented complex user interfaces using advanced ReactJs, NextJs, Python, TailwindCss, Typescript, etc.",
+      "Utilized React for frontend web development and cross-platform web app development.",
+      "Collaborated on optimizing app performance and enhancing user experience.",
     ],
   },
   {
@@ -174,14 +166,9 @@ const experiences = [
     iconBg: "#ffff",
     date: "April 2019 - June 2021",
     points: [
-      // "Developed cross-platform web applications using MERN Stack",
-      // "Integrated RESTful APIs, databases, and server-side scripting",
-      // "Focused on UI/UX design, responsive layout, and state management using Next.js.",
-      "Helped to increase the accuracy of the reporting systems by 4%",
-      "Delivered configuration management tools to track server settings for performance testing which saved 25% of initial machine setup",
-      "Developed monitor reports that are using in-memory cache, updating the data shown to the user every 1 second",
-      "Optimized customer resources and reduce turnaround time by 20%",
-      "Performed root cause analysis for more than 10 issues to identify bugs and rolled out fixes to production within 24 hours"
+      "Developed cross-platform web applications using MERN Stack",
+      "Integrated RESTful APIs, databases, and server-side scripting",
+      "Focused on UI/UX design, responsive layout, and state management using Next.js.",
     ],
   },
 ];
