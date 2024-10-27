@@ -72,7 +72,7 @@ const Navbar = () => {
                 >{nav.title}</a>
               ))}
               <a
-                href='https://www.dropbox.com/scl/fi/deuez6v3vzmm6dvhlyjdl/CarterGrantResume.pdf?rlkey=4cngvr787jy4kixq393e4tacp&st=z9uxhiab&dl=0'
+                href='https://www.dropbox.com/scl/fi/deuez6v3vzmm6dvhlyjdl/CarterGrantResume.pdf?rlkey=4cngvr787jy4kixq393e4tacp&st=0k6zlvvx&dl=0'
                 target="_blank"
                 className="text-gray-200 bg-gray-700 hover:text-white hover:bg-gray-600 px-3 py-2 rounded-md text-sm font-medium"
               >Resume <i class="fa-regular fa-paper-plane ml-1"></i></a>
@@ -126,7 +126,7 @@ const Navbar = () => {
                 >{nav.title}</a>
               ))}
               <a
-                href='https://www.dropbox.com/scl/fi/deuez6v3vzmm6dvhlyjdl/CarterGrantResume.pdf?rlkey=4cngvr787jy4kixq393e4tacp&st=z9uxhiab&dl=0'
+                href='https://www.dropbox.com/scl/fi/deuez6v3vzmm6dvhlyjdl/CarterGrantResume.pdf?rlkey=4cngvr787jy4kixq393e4tacp&st=0k6zlvvx&dl=0'
                 target="_blank"
                 className="bg-gray-700 w-fit m-auto text-white hover:text-white block px-3 py-2 rounded-md text-base font-medium"
               >Resume <i class="fa-regular fa-paper-plane ml-1"></i></a>
