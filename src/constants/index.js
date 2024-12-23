@@ -69,7 +69,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Data Science and Deep Learning self-student",
+    title: "Web3 Developer",
     icon: creator,
   },
 ];
