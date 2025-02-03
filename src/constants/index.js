@@ -69,7 +69,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Web3 Developer",
+    title: "AI Chatbot Developer",
     icon: creator,
   },
 ];
@@ -267,7 +267,7 @@ const projects = [
       },
     ],
     image: genius,
-    source_code_link: "https://github.com/cartergrant599/genius-ai",
+    source_code_link: "https://github.com/cartergrant059/genius-ai",
   },
   {
     name: "Aionair",
@@ -309,7 +309,7 @@ const projects = [
     ],
     image: aionair,
     live_version_link: "https://aionair.vercel.app/",
-    source_code_link: "https://github.com/cartergrant599/aionair",
+    source_code_link: "https://github.com/cartergrant059/Aionair",
   },
   {
     name: "Self Driving Car",
@@ -338,7 +338,7 @@ const projects = [
       },
     ],
     image: selfDrivingCar,
-    source_code_link: "https://github.com/cartergrant599/SelfDrivingCar",
+    source_code_link: "https://github.com/cartergrant059/SelfDrivingCar",
   },
   {
     name: "My Portfolio",
@@ -383,7 +383,7 @@ const projects = [
       },
     ],
     image: myPortfolio,
-    source_code_link: "https://github.com/cartergrant599/Portfolio",
+    source_code_link: "https://github.com/cartergrant059/Portfolio",
   },
   {
     name: "Bialetti Coffee Shop",
@@ -408,8 +408,7 @@ const projects = [
       },
     ],
     image: bialetti,
-    live_version_link: "https://bialetti-bolivia.netlify.app/",
-    source_code_link: "https://github.com/cartergrant599/BialettiBolivia",
+    source_code_link: "https://github.com/cartergrant059/BialettiBolivia",
   },
 ];
 
