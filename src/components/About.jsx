@@ -50,7 +50,7 @@ const About = () => {
         I'm a passionate software engineer, I
         love Web Development, Data Science
         and mobile development. I have over
-        6+ years of experience on Full Stack
+        7+ years of experience on Full Stack
         Development. Born and raised in
         Hong Kong, I'm a very curious and driven person,
         always looking to learn something
