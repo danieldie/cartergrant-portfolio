@@ -267,7 +267,7 @@ const projects = [
       },
     ],
     image: genius,
-    source_code_link: "https://github.com/cartergrant059/genius-ai",
+    source_code_link: "https://github.com/carter059/genius-ai",
   },
   {
     name: "Aionair",
@@ -309,7 +309,7 @@ const projects = [
     ],
     image: aionair,
     live_version_link: "https://aionair.vercel.app/",
-    source_code_link: "https://github.com/cartergrant059/Aionair",
+    source_code_link: "https://github.com/carter059/Aionair",
   },
   {
     name: "Self Driving Car",
@@ -338,7 +338,7 @@ const projects = [
       },
     ],
     image: selfDrivingCar,
-    source_code_link: "https://github.com/cartergrant059/SelfDrivingCar",
+    source_code_link: "https://github.com/carter059/SelfDrivingCar",
   },
   {
     name: "My Portfolio",
@@ -383,7 +383,7 @@ const projects = [
       },
     ],
     image: myPortfolio,
-    source_code_link: "https://github.com/cartergrant059/Portfolio",
+    source_code_link: "https://github.com/carter059/Portfolio",
   },
   {
     name: "Bialetti Coffee Shop",
@@ -408,7 +408,7 @@ const projects = [
       },
     ],
     image: bialetti,
-    source_code_link: "https://github.com/cartergrant059/BialettiBolivia",
+    source_code_link: "https://github.com/carter059/BialettiBolivia",
   },
 ];
 
